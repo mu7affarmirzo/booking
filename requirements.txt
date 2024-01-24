@@ -1,0 +1,11 @@
+bcrypt
+fastapi
+passlib
+python-decouple
+python-jose
+PyYAML
+SQLAlchemy
+uvicorn
+alembic
+psycopg2
+geopy
